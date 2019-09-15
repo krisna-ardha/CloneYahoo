@@ -1,6 +1,6 @@
 # encoding=utf8
 # Author: ./DelLuxeZ
-import requests
+import request
 import xml.dom.minidom as xmlget
 import os
 class bcolors:
